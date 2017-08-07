@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="390" viewBox="0 0 500 390">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="393" viewBox="0 0 500 393">
   <g fill="none" fill-rule="evenodd">
-    <g fill="#EC008C">
+    <g fill="#EC008C" transform="translate(1 .235)">
       <polygon points=".116 62.48 15.523 62.48 15.523 78 .116 78"/>
       <polygon points="15.523 46.96 30.93 46.96 30.93 62.48 15.523 62.48"/>
       <polygon points="30.93 31.44 46.337 31.44 46.337 46.96 30.93 46.96"/>
@@ -12,7 +12,7 @@
       <polygon points="92.559 15.919 107.967 15.919 107.967 31.44 92.559 31.44"/>
       <polygon points="77.152 .399 92.559 .399 92.559 15.919 77.152 15.919"/>
     </g>
-    <g fill="#202A30" transform="translate(.765 311.235)">
+    <g fill="#161D21" transform="translate(.765 314.235)">
       <polygon points=".435 78 .435 62.48 47.16 62.48 47.16 78"/>
       <polygon points="16.01 15.919 16.01 .399 62.735 .399 62.735 15.919"/>
       <polygon points="16.01 31.44 47.16 31.44 47.16 46.96 16.01 46.96"/>
@@ -34,7 +34,7 @@
       <polygon points="405.384 78 405.384 .399 420.959 .399 420.959 78"/>
       <polygon points="467.684 78 467.684 15.919 452.109 15.919 452.109 .399 498.834 .399 498.834 15.919 483.259 15.919 483.259 78"/>
     </g>
-    <g fill="#202A30" transform="translate(0 154.47)">
+    <g fill="#161D21" transform="translate(0 157.47)">
       <polygon points="46.875 78 15.708 78 15.708 62.48 46.875 62.48"/>
       <polygon points="15.708 31.44 .124 31.44 .124 15.919 15.708 15.919"/>
       <polygon points="46.875 15.919 15.708 15.919 15.708 .399 46.875 .399"/>
